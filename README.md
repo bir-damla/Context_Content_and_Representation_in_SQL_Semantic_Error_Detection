@@ -1,0 +1,2 @@
+# Context_Content_and_Representation_in_SQL_Semantic_Error_Detection
+Bağlam İçeriği ve Temsil Biçiminin SQL Sorgularında Anlamsal Hata Tespitine Etkisi
